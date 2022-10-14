@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Winner Abiodun, I'm a Transport Manager and Data Analyst 
+Free to collaborate in Projects
 
 <!--
 **winnerabiodun1/winnerabiodun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
